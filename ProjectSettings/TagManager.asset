@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ACE2
+  - Med
+  - ATP
+  - Suspend
+  - Rush
+  - Macrophage
+  - Cilium
+  - Antibody
+  - Plasma
+  - Ch4Macro
+  - Ch4Virus
+  - Tool
+  - AcmDetail
+  - AcmMain
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Traps
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 2540082665
+    locked: 0
+  - name: props
+    uniqueID: 1898152009
+    locked: 0
+  - name: UI
+    uniqueID: 3208655153
+    locked: 0

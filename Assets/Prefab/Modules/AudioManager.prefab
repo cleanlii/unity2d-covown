@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3652340972333629714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4652808698862806268}
+  - component: {fileID: 7545334144427192568}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4652808698862806268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3652340972333629714}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7545334144427192568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3652340972333629714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e37e8b2dc8b8564fb6c5df6133f30cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BgClips: {fileID: 8300000, guid: 3ce17a91c898aba47ad857b16767692d, type: 3}
+  MenuClips: {fileID: 8300000, guid: 642ee8b474b2f1e4980d32675690a7a1, type: 3}
+  EndingClips: {fileID: 8300000, guid: 581ea2d7dffdd404ca17e79a8dad7cb5, type: 3}
+  ReadyClips: {fileID: 8300000, guid: 27fad75ef6826eb498f0de855bf2946a, type: 3}
+  SuspendClips: {fileID: 8300000, guid: a126ee62b6879d64aaa8c3756c785cc2, type: 3}
+  JumpClips: {fileID: 8300000, guid: 77f2234d945441848a073dba82f9cf49, type: 3}
+  GetAtpClips: {fileID: 8300000, guid: c722a2fadd918944ba7a31107d2585a4, type: 3}
+  GetReceptorClips: {fileID: 8300000, guid: 90daaf7b5e99c3b4f9bbfd0bcdad2dde, type: 3}
+  GetMacroClips: {fileID: 8300000, guid: 7dfd47f0fadc1be4cb666104007a6d59, type: 3}
+  GetSpeedClips: {fileID: 8300000, guid: 2d15c3d676976bf43a0e55c19b047708, type: 3}
+  GetHealthClips: {fileID: 8300000, guid: 3baea703a3bd3e54bac085b1dd5a84ef, type: 3}
+  GetSuspendClips: {fileID: 8300000, guid: 1bab619ec2e284e45b062d2fe4640596, type: 3}
+  ShootBulletClips: {fileID: 8300000, guid: bdb983869ce3f73409499a6aaa5edc90, type: 3}
+  TrapClips: {fileID: 8300000, guid: 9d130717f471d42489bdd5d92ce06893, type: 3}
+  BorderClips: {fileID: 8300000, guid: 8307e2e27f40a2d4ea271553b869a666, type: 3}
